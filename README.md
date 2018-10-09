@@ -1,2 +1,2 @@
 # copie-ecran
-image sublim
+image sublim à conserver absolument
